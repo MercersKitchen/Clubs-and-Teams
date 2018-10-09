@@ -3,6 +3,7 @@ A descriptions of Clubs and Teams that have run out of Mercer's Kitchen, cooked 
 
 Current Teams
 - MindFuel Robitics Team, <a href ="https://github.com/MercersKitchen/mindFuel2018">Click Here</a>
+
 Important Dates
 - Robotics Team Sign up to Skills Alberta (Oct 3, 2018)
 
