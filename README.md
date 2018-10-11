@@ -5,9 +5,13 @@ Current Teams
 - MindFuel Robotics Team, <a href ="https://github.com/MercersKitchen/mindFuel2018">Click Here</a>
 - Cyber Security Team, <a href="">Click Here</a>
 - Websites Team & Skills Canada, <a href='"">Click Here</a>
+- Female Only Coding, Technovoation, <a href="">Click Here</a>
+- DiscoverE Coding Club, General Coding Club, <a href="">Click Here</a>
 
 Important Dates
+- Cyber Patriot Team Registration (Oct 1 ... better to do this in June of Same Year)
 - Robotics Team Sign up to Skills Alberta (Oct 3, 2018)
+- Cyber Patriot Payment for Teams (Nov 1)
 
 ---
 
