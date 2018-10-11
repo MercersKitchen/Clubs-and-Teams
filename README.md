@@ -4,7 +4,7 @@ A descriptions of Clubs and Teams that have run out of Mercer's Kitchen, cooked 
 Current Teams
 - MindFuel Robotics Team, <a href ="https://github.com/MercersKitchen/mindFuel2018">Click Here</a>
 - Cyber Security Team, <a href="">Click Here</a>
-- Websites Team & Skills Canada, <a href='"">Click Here</a>
+- Websites Team & Skills Canada, <a href="">Click Here</a>
 - Female Only Coding, Technovoation, <a href="">Click Here</a>
 - DiscoverE Coding Club, General Coding Club, <a href="">Click Here</a>
 
