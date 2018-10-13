@@ -23,7 +23,7 @@ Traveling Team: visits, events at QE; parent group involvement
 GETCA Student Mentoring
 Work Experience Students
 Special Projects
-World Teacher Day Event: ITV News Event
+World Teacher Day Event: ITV News Event (12 & 6 PM)
 Cyber Security Events
 Skills Alberta Canada
 VEX
@@ -31,4 +31,5 @@ Truth Meter
 Scratch
 Processing
 Game Maker
-CS Pitches (Including Logo)
+CS Pitches (Including Logo), Probably in Networking and AP CS Too
+Edmonton Regional Science Fair
