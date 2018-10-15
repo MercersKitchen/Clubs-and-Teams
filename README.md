@@ -13,7 +13,7 @@ Important Dates
 - Cyber Patriot Team Registration (Oct 1 ... better to do this in June of Same Year)
 - Robotics Team Sign up to Skills Alberta (Oct 3, 2018)
 - Cyber Patriot Payment for Teams (Nov 1)
-- Saturday, November 17, 2018: Comptuer Scinece Workshop, TeamUP Science, <a href="http://www.teamupscience.com/csw">Click Here</a>, <a href="https://www.eventbrite.ca/e/computer-science-workshop-tickets-50040838495">2018 Registration Page</a>
+- Saturday, November 17, 2018: Comptuer Scinece Workshop, TeamUP Science, <a href="http://www.teamupscience.com/csw">Click Here for more information</a>, <a href="https://www.eventbrite.ca/e/computer-science-workshop-tickets-50040838495">2018 Registration Page</a>
 
 ---
 
