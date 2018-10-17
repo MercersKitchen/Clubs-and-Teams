@@ -10,13 +10,16 @@ Current Teams
 - Female Only Coding, Technovation, <a href="">Click Here</a>
   - Google Drive Link, <a href="https://drive.google.com/drive/folders/1rKAyw4XOAxke_rRaToC9xTjk-nPVy_oJ">Click Here</a>
 - DiscoverE Coding Club, General Coding Club, <a href="">Click Here</a>
-- Google Ignite, General Cosding Club (& Robotics?), <a href="">Click Here</a>
+- Google Ignite, General Coding Club (& Robotics?), <a href="">Click Here</a>
 
 Important Dates
 - Cyber Patriot Team Registration (Oct 1 ... better to do this in June of Same Year)
 - Robotics Team Sign up to Skills Alberta (Oct 3, 2018)
 - Cyber Patriot Payment for Teams (Nov 1)
-- Saturday, November 17, 2018: Comptuer Scinece Workshop, TeamUP Science, <a href="http://www.teamupscience.com/csw">Click Here for more information</a>, <a href="https://www.eventbrite.ca/e/computer-science-workshop-tickets-50040838495">2018 Registration Page</a>
+- Saturday, November 17, 2018: Computer Science Workshop, TeamUP Science, <a href="http://www.teamupscience.com/csw">Click Here for more information</a>, <a href="https://www.eventbrite.ca/e/computer-science-workshop-tickets-50040838495">2018 Registration Page</a>
+
+## Google Ignite
+
 
 ---
 
