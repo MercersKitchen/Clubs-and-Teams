@@ -10,7 +10,7 @@ Current Teams
 - Female Only Coding, Technovation, <a href="">Click Here</a>
   - Google Drive Link, <a href="https://drive.google.com/drive/folders/1rKAyw4XOAxke_rRaToC9xTjk-nPVy_oJ">Click Here</a>
 - DiscoverE Coding Club, General Coding Club, <a href="">Click Here</a>
-- Google Ignite, General Coding Club (& Robotics?), <a href="">Click Here</a>
+- Google Ignite, General Coding Club (& Robotics?), <a href="https://github.com/MercersKitchen/Clubs-and-Teams#google-ignite">Click Here</a>
 
 Important Dates
 - Cyber Patriot Team Registration (Oct 1 ... better to do this in June of Same Year)
@@ -19,13 +19,14 @@ Important Dates
 - Saturday, November 17, 2018: Computer Science Workshop, TeamUP Science, <a href="http://www.teamupscience.com/csw">Click Here for more information</a>, <a href="https://www.eventbrite.ca/e/computer-science-workshop-tickets-50040838495">2018 Registration Page</a>
 
 ## Google Ignite
-
+Robotics Club - prototyping and reporting to students
+- New Recruiting Tool for MacEwan
 
 ---
 
 # Ideas to Include
 Mentoring Elementary Students at MGG
-Mentoring Kindergaten Students at Meano (SP)
+Mentoring Kindergarten Students at Meano (SP)
 Traveling Team: visits, events at QE; parent group involvement
 GETCA Student Mentoring
 Work Experience Students
