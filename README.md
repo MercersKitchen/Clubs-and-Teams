@@ -18,6 +18,17 @@ Important Dates
 - Cyber Patriot Payment for Teams (Nov 1)
 - Saturday, November 17, 2018: Computer Science Workshop, TeamUP Science, <a href="http://www.teamupscience.com/csw">Click Here for more information</a>, <a href="https://www.eventbrite.ca/e/computer-science-workshop-tickets-50040838495">2018 Registration Page</a>
 
+## Websites Team and Skills Canada
+
+What Team Members Can Do?
+- Update pre-existing websites
+- Build and Host Websites
+
+Exemplar Building Website from Scratch and Securing Hosting Services
+- Innovate, Queen Elizabeth High School, <a href="https://innovatehighschool.github.io/">Click Here to enter Website Hosted on GitHub</>
+  - Integrated with Google Calendar
+
+
 ## Google Ignite
 Robotics Club - prototyping and reporting to students
 - New Recruiting Tool for MacEwan
