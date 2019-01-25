@@ -16,6 +16,7 @@ Current Teams and Applicatons
 - Programming Challenge, University of Alberta (March
 - Iverson Day (University of Alberta)
 - CS Pitches, through Mercer's Kitchen
+- Mercer's Kitchen Hackathon for Entrepreneurship (Grade 9 to Grade 12)
 
 Important Dates
 - Cyber Patriot Team Registration (Oct 1 ... better to do this in June of Same Year)
