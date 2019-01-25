@@ -3,7 +3,7 @@ A descriptions of Clubs and Teams that have run out of Mercer's Kitchen, cooked 
 
 Google Drive Link to 2018 - 2018 Students: <a href="https://drive.google.com/drive/folders/1rKAyw4XOAxke_rRaToC9xTjk-nPVy_oJ">Click Here</a>
 
-Current Teams
+Current Teams and Applicatons
 - MindFuel Robotics Team, <a href ="https://github.com/MercersKitchen/mindFuel2018">Click Here</a>
 - Cyber Security Team, <a href="">Click Here</a>
 - Websites Team & Skills Canada, <a href="">Click Here</a>
@@ -11,6 +11,11 @@ Current Teams
   - Google Drive Link, <a href="https://drive.google.com/drive/folders/1rKAyw4XOAxke_rRaToC9xTjk-nPVy_oJ">Click Here</a>
 - DiscoverE Coding Club, General Coding Club, <a href="">Click Here</a>
 - Google Ignite, General Coding Club (& Robotics?), <a href="https://github.com/MercersKitchen/Clubs-and-Teams#google-ignite">Click Here</a>
+- High School Internship Application, University of Alberta
+- Edmonton Regional Science Fair
+- Programming Challenge, University of Alberta (March
+- Iverson Day (University of Alberta)
+- CS Pitches, through Mercer's Kitchen
 
 Important Dates
 - Cyber Patriot Team Registration (Oct 1 ... better to do this in June of Same Year)
